@@ -1,0 +1,15 @@
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/bin/Debug/net9.0/ConsoleApplication1
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/bin/Debug/net9.0/ConsoleApplication1.deps.json
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/bin/Debug/net9.0/ConsoleApplication1.runtimeconfig.json
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/bin/Debug/net9.0/ConsoleApplication1.dll
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/bin/Debug/net9.0/ConsoleApplication1.pdb
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.AssemblyInfoInputs.cache
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.AssemblyInfo.cs
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.sourcelink.json
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.dll
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/refint/ConsoleApplication1.dll
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.pdb
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ConsoleApplication1.genruntimeconfig.cache
+/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/Debug/net9.0/ref/ConsoleApplication1.dll
