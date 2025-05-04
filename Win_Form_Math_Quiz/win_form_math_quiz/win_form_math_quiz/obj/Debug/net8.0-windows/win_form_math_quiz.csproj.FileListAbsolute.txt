@@ -1,0 +1,17 @@
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\bin\Debug\net8.0-windows\win_form_math_quiz.exe
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\bin\Debug\net8.0-windows\win_form_math_quiz.deps.json
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\bin\Debug\net8.0-windows\win_form_math_quiz.runtimeconfig.json
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\bin\Debug\net8.0-windows\win_form_math_quiz.dll
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\bin\Debug\net8.0-windows\win_form_math_quiz.pdb
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.AssemblyInfoInputs.cache
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.AssemblyInfo.cs
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.csproj.CoreCompileInputs.cache
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.sourcelink.json
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.dll
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\refint\win_form_math_quiz.dll
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.pdb
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.genruntimeconfig.cache
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\ref\win_form_math_quiz.dll
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.Form1.resources
+D:\Projects\My software\CSE325\Win_Form_Math_Quiz\win_form_math_quiz\win_form_math_quiz\obj\Debug\net8.0-windows\win_form_math_quiz.csproj.GenerateResource.cache
