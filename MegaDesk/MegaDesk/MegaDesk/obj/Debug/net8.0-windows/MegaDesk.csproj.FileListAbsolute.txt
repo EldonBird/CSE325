@@ -1,0 +1,15 @@
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\bin\Debug\net8.0-windows\MegaDesk.exe
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\bin\Debug\net8.0-windows\MegaDesk.deps.json
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\bin\Debug\net8.0-windows\MegaDesk.runtimeconfig.json
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\bin\Debug\net8.0-windows\MegaDesk.dll
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\bin\Debug\net8.0-windows\MegaDesk.pdb
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.AssemblyInfoInputs.cache
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.AssemblyInfo.cs
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.csproj.CoreCompileInputs.cache
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.sourcelink.json
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.dll
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\refint\MegaDesk.dll
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.pdb
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.genruntimeconfig.cache
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\ref\MegaDesk.dll
