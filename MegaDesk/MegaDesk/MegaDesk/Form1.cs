@@ -11,7 +11,9 @@ public partial class Form1 : Form {
 
     private void quotebutton_Click(object sender, EventArgs e) {
         AddQuote addQuote = new AddQuote();
+        addQuote.Tag = this;
         addQuote.Show();
+        Hide();
     }
 
     private void exitbutton_Click(object sender, EventArgs e) {

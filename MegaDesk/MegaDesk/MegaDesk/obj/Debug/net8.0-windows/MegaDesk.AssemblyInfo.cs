@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MegaDesk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80901b98a88367f334836475ff0ffc4610ac09fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5127d30f4c04fb2b84a5ac6159366e6bcde7c15d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MegaDesk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MegaDesk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

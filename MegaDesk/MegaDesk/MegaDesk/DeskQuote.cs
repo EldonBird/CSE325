@@ -16,9 +16,11 @@ public class DeskQuote {
     private int rush_time { get; }
 
 
-    public DeskQuote(Desk d, String name, int rush) {
+    public DeskQuote(Desk.Material mat, Double w, double d, double h, int drawers, String name, int rush) { // used to create both a desk and a deskquote
+
+        Desk de = new Desk(mat, w, d, h, drawers);
         
-        desk = d;
+        desk = de;
         customer_name = name;
         rush_time = rush;
 

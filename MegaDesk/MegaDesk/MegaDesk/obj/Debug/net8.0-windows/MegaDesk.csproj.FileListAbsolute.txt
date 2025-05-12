@@ -13,3 +13,5 @@ D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windo
 D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.pdb
 D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.genruntimeconfig.cache
 D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\ref\MegaDesk.dll
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.AddQuote.resources
+D:\Projects\My software\CSE325\MegaDesk\MegaDesk\MegaDesk\obj\Debug\net8.0-windows\MegaDesk.csproj.GenerateResource.cache

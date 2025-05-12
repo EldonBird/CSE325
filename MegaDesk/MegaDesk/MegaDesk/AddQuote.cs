@@ -16,4 +16,45 @@ public partial class AddQuote : Form {
     private void label2_Click(object sender, EventArgs e) {
         throw new System.NotImplementedException();
     }
+
+    private void text_name_TextChanged(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
+
+    private void text_width_TextChanged(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
+
+    private void text_rush_TextChanged(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
+
+    private void text_depth_TextChanged(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
+
+    private void text_drawers_TextChanged(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
+
+    private void text_rush_TextChanged_1(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
+
+    private void submitbutton_Click(object sender, EventArgs e) {
+        Desk.Material mat = new Desk.Material();
+        Desk.Material.TryParse(text_material.Text, out mat);
+        DeskQuote deskQuote = new DeskQuote(mat, Double.Parse(text_width.Text), Double.Parse(text_depth.Text), 1, int.Parse(text_drawers.Text), text_width.Text, int.Parse(text_rush.Text));
+
+        Form1 form1 = (Form1)Tag;
+        form1.Show();
+        Close();
+
+
+
+    }
+
+    private void text_name_TextChanged_1(object sender, EventArgs e) {
+        throw new System.NotImplementedException();
+    }
 }
