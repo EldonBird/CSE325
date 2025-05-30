@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\My software\\CSE325\\ConsoleApplication1\\ConsoleApplication1.csproj": {}
+    "/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/ConsoleApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\My software\\CSE325\\ConsoleApplication1\\ConsoleApplication1.csproj": {
+    "/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/ConsoleApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\My software\\CSE325\\ConsoleApplication1\\ConsoleApplication1.csproj",
+        "projectUniqueName": "/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/ConsoleApplication1.csproj",
         "projectName": "ConsoleApplication1",
-        "projectPath": "D:\\Projects\\My software\\CSE325\\ConsoleApplication1\\ConsoleApplication1.csproj",
-        "packagesPath": "C:\\Users\\Birdh\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\My software\\CSE325\\ConsoleApplication1\\obj\\",
+        "projectPath": "/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/ConsoleApplication1.csproj",
+        "packagesPath": "/home/eldon/.nuget/packages/",
+        "outputPath": "/home/eldon/Documents/GitHub/CSE325/ConsoleApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Birdh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/eldon/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\Birdh\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/eldon/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
