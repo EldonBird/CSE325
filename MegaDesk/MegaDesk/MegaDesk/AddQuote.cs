@@ -42,6 +42,10 @@ public partial class AddQuote : Form {
     }
 
     private void submitbutton_Click(object sender, EventArgs e) {
+        
+        // I Should have a validation here, I am waiting for the next portion as I know I do infact need to validate everything at some point, I will most likely include them by bit,
+        // and I would call myself rather lazy, I appologise.
+        
         Desk.Material mat = new Desk.Material();
         Desk.Material.TryParse(text_material.Text, out mat);
         DeskQuote deskQuote = new DeskQuote(mat, Double.Parse(text_width.Text), Double.Parse(text_depth.Text), 1, int.Parse(text_drawers.Text), text_width.Text, int.Parse(text_rush.Text));
