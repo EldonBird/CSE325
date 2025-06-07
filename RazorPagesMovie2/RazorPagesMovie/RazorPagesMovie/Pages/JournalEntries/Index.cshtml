@@ -1,0 +1,60 @@
+﻿@page
+@model RazorPagesMovie.Pages.JournalEntries.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntries[0].book)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntries[0].chapter)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntries[0].verse)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntries[0].note)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JournalEntries[0].note_date)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.JournalEntries) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.book)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.chapter)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.verse)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.note)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.note_date)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -36,6 +36,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Projects/My software/CSE325/RazorPagesMovie2/RazorPagesMovie/RazorPagesMovie/Pages/JournalEntries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm91cm5hbEVudHJpZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/My software/CSE325/RazorPagesMovie2/RazorPagesMovie/RazorPagesMovie/Pages/JournalEntries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm91cm5hbEVudHJpZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/My software/CSE325/RazorPagesMovie2/RazorPagesMovie/RazorPagesMovie/Pages/JournalEntries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm91cm5hbEVudHJpZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/My software/CSE325/RazorPagesMovie2/RazorPagesMovie/RazorPagesMovie/Pages/JournalEntries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm91cm5hbEVudHJpZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/My software/CSE325/RazorPagesMovie2/RazorPagesMovie/RazorPagesMovie/Pages/JournalEntries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSm91cm5hbEVudHJpZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Projects/My software/CSE325/RazorPagesMovie2/RazorPagesMovie/RazorPagesMovie/Pages/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
