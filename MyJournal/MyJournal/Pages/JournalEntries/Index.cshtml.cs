@@ -53,11 +53,6 @@ namespace MyJournal.Pages.JournalEntries
 
             if (!string.IsNullOrEmpty(JournalEntryBooks))
             {
-                entries = entries.Where(s => s.Note.Contains(JournalEntryBooks));
-            }
-
-            if (!string.IsNullOrEmpty(JournalEntryBooks))
-            {
                 entries = entries.Where(x => x.Book == JournalEntryBooks);
             }
 

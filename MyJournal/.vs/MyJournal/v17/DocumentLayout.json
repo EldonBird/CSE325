@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|solutionrelative:myjournal\\pages\\journalentries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|d:\\projects\\my software\\cse325\\myjournal\\myjournal\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|solutionrelative:myjournal\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|d:\\projects\\my software\\cse325\\myjournal\\myjournal\\pages\\journalentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|solutionrelative:myjournal\\pages\\journalentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|d:\\projects\\my software\\cse325\\myjournal\\myjournal\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA23BBE9-9C95-4CE4-AB4A-A04061BC81EE}|MyJournal\\MyJournal.csproj|solutionrelative:myjournal\\models\\journalentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,27 +32,27 @@
               "RelativeDocumentMoniker": "MyJournal\\Pages\\JournalEntries\\Index.cshtml.cs",
               "ToolTip": "D:\\Projects\\My software\\CSE325\\MyJournal\\MyJournal\\Pages\\JournalEntries\\Index.cshtml.cs",
               "RelativeToolTip": "MyJournal\\Pages\\JournalEntries\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAkwDgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T20:28:22.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projects\\My software\\CSE325\\MyJournal\\MyJournal\\Pages\\JournalEntries\\Index.cshtml",
               "RelativeDocumentMoniker": "MyJournal\\Pages\\JournalEntries\\Index.cshtml",
               "ToolTip": "D:\\Projects\\My software\\CSE325\\MyJournal\\MyJournal\\Pages\\JournalEntries\\Index.cshtml",
               "RelativeToolTip": "MyJournal\\Pages\\JournalEntries\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-07T20:28:21.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JournalEntry.cs",
               "DocumentMoniker": "D:\\Projects\\My software\\CSE325\\MyJournal\\MyJournal\\Models\\JournalEntry.cs",
               "RelativeDocumentMoniker": "MyJournal\\Models\\JournalEntry.cs",
