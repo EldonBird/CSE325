@@ -364,3 +364,16 @@ D:\Projects\My software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\
 D:\Projects\My software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Projects\My software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Projects\My software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.csproj.AssemblyReference.cache
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.AssemblyInfoInputs.cache
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.AssemblyInfo.cs
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.RazorAssemblyInfo.cache
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.RazorAssemblyInfo.cs
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.sourcelink.json
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.dll
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\refint\RazorPagesMovie.dll
+D:\Projects\My_Software\CSE325\RazorPagesMovie2\RazorPagesMovie\RazorPagesMovie\obj\Debug\net9.0\RazorPagesMovie.pdb

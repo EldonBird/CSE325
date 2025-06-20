@@ -8012,11 +8012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\My software\\CSE325\\RazorPagesMovie2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "D:\\Projects\\My_Software\\CSE325\\RazorPagesMovie2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "D:\\Projects\\My software\\CSE325\\RazorPagesMovie2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectPath": "D:\\Projects\\My_Software\\CSE325\\RazorPagesMovie2\\RazorPagesMovie\\RazorPagesMovie\\RazorPagesMovie.csproj",
       "packagesPath": "C:\\Users\\Birdh\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\My software\\CSE325\\RazorPagesMovie2\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
+      "outputPath": "D:\\Projects\\My_Software\\CSE325\\RazorPagesMovie2\\RazorPagesMovie\\RazorPagesMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8049,7 +8049,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -8093,7 +8093,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

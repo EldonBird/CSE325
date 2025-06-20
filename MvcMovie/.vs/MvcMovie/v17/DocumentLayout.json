@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\helloworld\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\moviegenreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|d:\\projects\\my_software\\cse325\\mvcmovie\\mvcmovie\\models\\createmovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62062F1E-D909-4F2E-80BB-35C933E2447A}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\models\\createmovieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcMovie\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcMovie\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-20T22:07:51.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\SeedData.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T22:06:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T22:02:31.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMovieViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\CreateMovieViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\CreateMovieViewModel.cs",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\CreateMovieViewModel.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\CreateMovieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:52:43.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T21:43:29.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieGenreViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\MovieGenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:39:13.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T20:19:58.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovie\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAADwv1gAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:18:52.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "RelativeToolTip": "MvcMovie\\Views\\HelloWorld\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T20:18:31.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovie\\Models\\Movie.cs",
+              "ToolTip": "D:\\Projects\\My_Software\\CSE325\\MvcMovie\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovie\\Models\\Movie.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T20:12:48.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
